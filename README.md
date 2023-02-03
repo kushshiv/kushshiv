@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Shivendra and I am an enthusiastic Software Engineer eager to contribute to team success through hard work, attention to detail, and excellent organizational skills. Having 5+ years of experience in Software Development, System Design, Problem Analysis and Bug Fixing. Motivated to learn, grow, and excel in a challenging environment.
+My name is Shivendra and I am an enthusiastic Software Engineer eager to contribute to team success through hard work, attention to detail, and excellent organizational skills. Having 6+ years of experience in Software Development, System Design, Problem Analysis and Bug Fixing. Motivated to learn, grow, and excel in a challenging environment.
 
 ### Skills
 
@@ -9,6 +9,7 @@ My name is Shivendra and I am an enthusiastic Software Engineer eager to contrib
 ![Django](https://img.shields.io/badge/django-092E20.svg?&style=for-the-badge&logo=django)
 ![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-000000.svg?&style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-00599C.svg?&style=for-the-badge&logo=c++&logoColor=white)
 ![Shell](https://img.shields.io/badge/shell-FFD500.svg?&style=for-the-badge&logo=shell&logoColor=white)
 ![Perl](https://img.shields.io/badge/perl-39457E.svg?&style=for-the-badge&logo=perl&logoColor=white)
